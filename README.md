@@ -11,6 +11,7 @@ Enter JS file name: script
 naitRAM@raspberrypi:~/code/web_dev/new_project$ ls
 index.html script.js style.css
 naitRAM@raspberrypi:~/code/web_dev/new_project$ cat index.html
+<!DOCTYPE html>
 <html>
 	<head>
 		<link href='style.css' rel='stylesheet' />
